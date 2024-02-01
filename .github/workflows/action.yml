@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Use remote action
-        uses: nicologemini/my-first-public-action 
+        uses: nicologemini/my-first-public-action@v1
