@@ -6,3 +6,5 @@ jobs:
     steps:
       - name: Use remote action
         uses: nicologemini/my-first-public-action@v1
+        with:
+          who-to-greet: 'nicolò'
